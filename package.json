@@ -5,7 +5,8 @@
     "lerna": "^3.22.1"
   },
   "scripts": {
+    "bootstrap": "lerna bootstrap",
     "create-package": "lerna create $1",
-    "bootstrap": "lerna bootstrap"
+    "add-package": "lerna add $1 $2"
   }
 }
