@@ -1,7 +1,4 @@
-'use strict';
+"use strict";
+const { add } = require("@company/commons/lib");
 
-module.exports = server;
-
-function server() {
-    // TODO
-}
+console.log(add(3, 2));

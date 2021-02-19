@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/uulwake/learn-lerna/issues"
+  },
+  "dependencies": {
+    "@company/commons": "^0.0.0"
   }
 }
