@@ -7,6 +7,8 @@
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "create-package": "lerna create $1",
-    "add-package": "lerna add $1 $2"
+    "add-package": "lerna add $1 $2",
+    "add-package-dev": "lerna add $1 $2 --dev",
+    "clean": "rm -rf node_modules && lerna clean -y"
   }
 }

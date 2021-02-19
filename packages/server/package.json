@@ -27,7 +27,6 @@
     "url": "https://github.com/uulwake/learn-lerna/issues"
   },
   "dependencies": {
-    "@company/commons": "^0.0.0",
-    "express": "^4.17.1"
+    "@company/commons": "^0.0.0"
   }
 }
