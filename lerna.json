@@ -4,6 +4,9 @@
   "command": {
     "bootstrap": {
       "hoist": "**"
+    },
+    "version": {
+      "message": "chore(release): publish %s"
     }
   },
   "ignoreChanges": [

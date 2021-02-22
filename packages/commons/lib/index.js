@@ -8,6 +8,8 @@ module.exports = {
     // boljug
     // test
     // nskjdkjasb
+    // coba deh
+    // mantap mantap
     return a + b;
   },
 };
