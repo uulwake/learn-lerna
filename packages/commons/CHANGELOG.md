@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.1](https://github.com/uulwake/learn-lerna/compare/@company/commons@1.3.0...@company/commons@1.3.1) (2021-02-22)
+
+**Note:** Version bump only for package @company/commons
+
+
+
+
+
 # [1.3.0](https://github.com/uulwake/learn-lerna/compare/@company/commons@1.2.1...@company/commons@1.3.0) (2021-02-22)
 
 
