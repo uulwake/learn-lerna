@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.2](https://github.com/uulwake/learn-lerna/compare/@company/commons@1.1.1...@company/commons@1.1.2) (2021-02-22)
+
+
+### Bug Fixes
+
+* something ([9450af9](https://github.com/uulwake/learn-lerna/commit/9450af903612df032b29d3b2880dcc8fecf2b7dd))
+
+
+
+
+
 # [1.1.0](https://github.com/uulwake/learn-lerna/compare/@company/commons@1.0.0...@company/commons@1.1.0) (2021-02-22)
 
 
