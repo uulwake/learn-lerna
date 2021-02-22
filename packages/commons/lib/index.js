@@ -10,6 +10,6 @@ module.exports = {
     // nskjdkjasb
     // coba deh
     // mantap mantap
-    return a + b;
+    return a - b;
   },
 };

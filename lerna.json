@@ -6,7 +6,8 @@
       "hoist": "**"
     },
     "version": {
-      "message": "chore(release): publish %s"
+      "message": "chore(release): publish",
+      "allowBranch": "main"
     }
   },
   "ignoreChanges": [
