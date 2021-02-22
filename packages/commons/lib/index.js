@@ -5,6 +5,7 @@ module.exports = {
     // mantap
     // boljug
     // namba dikit
+    // boljug
     return a + b;
   },
 };
