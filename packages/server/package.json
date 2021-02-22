@@ -1,6 +1,6 @@
 {
   "name": "@company/server",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "> TODO: description",
   "author": "Ulrich Wake <uulwake@gmail.com>",
   "homepage": "https://github.com/uulwake/learn-lerna#readme",
@@ -27,6 +27,6 @@
     "url": "https://github.com/uulwake/learn-lerna/issues"
   },
   "dependencies": {
-    "@company/commons": "^1.2.1"
+    "@company/commons": "^1.3.0"
   }
 }
