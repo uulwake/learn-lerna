@@ -6,6 +6,7 @@ module.exports = {
     // boljug
     // namba dikit
     // boljug
+    // test
     return a + b;
   },
 };
