@@ -14,10 +14,5 @@
     "**/test/**",
     "lerna.json",
     "readme.md"
-  ],
-  "publish": {
-    "message": "chore(release): publish %s",
-    "conventionalCommits": true,
-    "createRelease": "github"
-  }
+  ]
 }
